@@ -1,8 +1,8 @@
-<img src="https://cdn2.hubspot.net/hubfs/597611/Assets_Swagger/KZOE.png" alt="KaiZen OpenAPI Editor Logo" height="50%" width="50%"/>
+<img src="https://github.com/LundOgBendsen/LBRestEditor/blob/master/etc/img/lbresteditor.png" alt="LB Rest Editor Logo" height="50%" width="50%"/>
 
-# KaiZen OpenAPI Editor for Eclipse
+# LBRestEditor for Eclipse
 
-_KaiZen OpenAPI Editor_ is an Eclipse editor for the [industry standard API description language](http://openapis.org), formerly known as [Swagger](http://swagger.io). It now supports both [Swagger-OpenAPI version 2.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md) and [OpenAPI version 3.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md).  
+_LBRestEditor is based on KaiZen OpenAPI Editor_ is an Eclipse editor for the [industry standard API description language](http://openapis.org), formerly known as [Swagger](http://swagger.io). It now supports both [Swagger-OpenAPI version 2.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md) and [OpenAPI version 3.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md).  
 
 KaiZen Editor is a core component of [RepreZen API Studio](http://reprezen.com/swagger-tools), a comprehensive solution for API modeling, documentation, visualization, testing and code generation, built on Eclipse.
 
