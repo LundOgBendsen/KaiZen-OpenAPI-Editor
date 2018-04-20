@@ -1,4 +1,4 @@
-<img src="https://github.com/LundOgBendsen/LBRestEditor/blob/master/etc/img/lbresteditor.png" alt="LB Rest Editor Logo" height="50%" width="50%"/>
+<img src="https://github.com/LundOgBendsen/LBRestEditor/blob/master/etc/img/lbresteditor.png" alt="LB Rest Editor Logo" height="20%" width="20%"/>
 
 # LBRestEditor for Eclipse
 
