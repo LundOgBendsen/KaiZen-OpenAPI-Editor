@@ -8,7 +8,7 @@ _LBRestEditor is based on KaiZen OpenAPI Editor_ is an Eclipse editor for the [i
 |--------------------|
 | The LBRestEditor is under construction, and you may be better of with the [KeiZen editor](https://github.com/RepreZen/KaiZen-OpenAPI-Editor) |
 | Extra features included in the LBRestEditor: |
-| * Possiblity to execute test http requests and review results |
+| * Possibility to execute test http requests and review results |
 
 KaiZen Editor is a core component of [RepreZen API Studio](http://reprezen.com/swagger-tools), a comprehensive solution for API modeling, documentation, visualization, testing and code generation, built on Eclipse.
 
