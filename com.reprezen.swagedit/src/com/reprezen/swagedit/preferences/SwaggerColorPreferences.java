@@ -25,7 +25,7 @@ public class SwaggerColorPreferences extends ColorPreferences {
         super();
 
         setPreferenceStore(Activator.getDefault().getPreferenceStore());
-        setDescription("Swagger Color Preferences for syntax highlighting");
+        setDescription("13Swagger Color Preferences for syntax highlighting");
     }
 
 }

@@ -16,7 +16,7 @@ import com.reprezen.swagedit.core.preferences.KaizenPreferencePage;
 public class SwaggerPreferencePage extends KaizenPreferencePage {
 
     public SwaggerPreferencePage() {
-        setDescription("Swagger Preferences");
+        setDescription("12Swagger Preferences");
         setPreferenceStore(Activator.getDefault().getPreferenceStore());
     }
 

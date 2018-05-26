@@ -35,7 +35,7 @@ public class SwaggerValidationPreferences extends FieldEditorPreferencePage
         // GRID is needed because we are not attaching the editor fields directly to FieldEditorParent, but to its child
         super(FieldEditorPreferencePage.GRID);
         setPreferenceStore(Activator.getDefault().getPreferenceStore());
-        setDescription("Swagger preferences for validation");
+        setDescription("14Swagger preferences for validation");
     }
 
     @Override

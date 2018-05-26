@@ -18,7 +18,7 @@ public class KaizenPreferencePage extends FieldEditorPreferencePage implements I
 
     public KaizenPreferencePage() {
         super(GRID);
-        setDescription("KaiZen OpenAPI Editor Preferences");
+        setDescription("20LBRestEditor Preferences");
     }
 
     @Override

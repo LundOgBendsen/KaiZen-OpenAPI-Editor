@@ -16,3 +16,6 @@ target/
 
 # Xtend Gen folder
 xtend-gen/
+
+.project
+.settings

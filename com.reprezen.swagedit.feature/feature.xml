@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="com.reprezen.swagedit.feature"
-      label="KaiZen-OpenAPI-Editor"
+      label="22LBRestEditor-OpenAPI"
       version="0.8.0.qualifier">
 
    <description>
-      KaiZen OpenAPI Editor
+      23LBRestEditor OpenAPI
    </description>
 
    <license url="http://www.eclipse.org/legal/epl-v10.html">
