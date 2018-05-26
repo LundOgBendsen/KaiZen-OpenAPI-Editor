@@ -4,6 +4,12 @@
 
 _LBRestEditor is based on KaiZen OpenAPI Editor_ is an Eclipse editor for the [industry standard API description language](http://openapis.org), formerly known as [Swagger](http://swagger.io). It now supports both [Swagger-OpenAPI version 2.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md) and [OpenAPI version 3.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.0.md).  
 
+| Under construction |
+|--------------------|
+| The LBRestEditor is under construction, and you may be better of with the [KeiZen editor](https://github.com/RepreZen/KaiZen-OpenAPI-Editor) |
+| Extra features included in the LBRestEditor: |
+| * Possibility to execute test http requests and review results |
+
 KaiZen Editor is a core component of [RepreZen API Studio](http://reprezen.com/swagger-tools), a comprehensive solution for API modeling, documentation, visualization, testing and code generation, built on Eclipse.
 
 We welcome your suggestions and contributions!
